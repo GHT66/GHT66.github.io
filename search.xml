@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>功能更新</title>
-    <url>/GHT66/a63b8613.html</url>
-    <content><![CDATA[<h2 id="主题更新"><a href="#主题更新" class="headerlink" title="主题更新"></a>主题更新</h2><p>对博客主题进行了更新，看起来更加简约。<br>左边为此博客的主要信息。<br>适配了暗黑模式，iOS用户直接切换深夜模式即可，安卓还没测试，目前已知安卓11深夜模式无法自动切换，后期会及时更新。</p>
-<h2 id="功能更新"><a href="#功能更新" class="headerlink" title="功能更新"></a>功能更新</h2><p>右下角添加了在线评论功能，点击小气泡就能匿名联系我，收到信息我会尽可能及时回复，请发现bug后及时与我联系。<br>如果有好的建议欢迎大家及时与我联系哦！</p>
-<pre><code>感谢你的访问和反馈！</code></pre>
-]]></content>
-      <categories>
-        <category>更新</category>
-      </categories>
-  </entry>
-  <entry>
     <title>如何使用Snapseed进行色彩突出</title>
     <url>/GHT66/0.html</url>
     <content><![CDATA[<p>很多时候我们需要着重凸显图片中的某一个部分，而大部分手机自带的软件不能实现这样的功能，在电脑上使用PS编辑又太过于繁琐，所以我们可以使用 Google 开发的 Snapseed 来实现这样的效果。</p>
@@ -41,11 +30,22 @@
       </categories>
   </entry>
   <entry>
+    <title>功能更新</title>
+    <url>/GHT66/a63b8613.html</url>
+    <content><![CDATA[<h2 id="主题更新"><a href="#主题更新" class="headerlink" title="主题更新"></a>主题更新</h2><p>对博客主题进行了更新，看起来更加简约。<br>左边为此博客的主要信息。<br>适配了暗黑模式，iOS用户直接切换深夜模式即可，安卓还没测试，目前已知安卓11深夜模式无法自动切换，后期会及时更新。</p>
+<h2 id="功能更新"><a href="#功能更新" class="headerlink" title="功能更新"></a>功能更新</h2><p>右下角添加了在线评论功能，点击小气泡就能匿名联系我，收到信息我会尽可能及时回复，请发现bug后及时与我联系。<br>如果有好的建议欢迎大家及时与我联系哦！</p>
+<pre><code>感谢你的访问和反馈！</code></pre>
+]]></content>
+      <categories>
+        <category>更新</category>
+      </categories>
+  </entry>
+  <entry>
     <title>此博客的相关说明</title>
     <url>/GHT66/abf0d511.html</url>
     <content><![CDATA[<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p>此博客是我因学习而新搭建的个人博客，由于部署的远端是GitHub，所以有时候会出现访问速度较慢或者无法访问的情况，过段时间应该就可以访问了。若要访问该博客，在浏览器中搜索GHT66.github.io即可。后期会购买国内服务器速度就会快很多。域名的话暂时还没有哈哈哈，看能不能捡到一些便宜的域名。</p>
 <h2 id="关于内容"><a href="#关于内容" class="headerlink" title="关于内容"></a>关于内容</h2><p>内容的话还没有定下来，但不唯一，具体请期待后期更新。</p>
-<p>若有相关疑问请联系我的个人邮箱：<a href="mailto:&#50;&#52;&#55;&#x39;&#56;&#55;&#x36;&#x30;&#54;&#50;&#x40;&#113;&#113;&#x2e;&#99;&#111;&#x6d;">&#50;&#52;&#55;&#x39;&#56;&#55;&#x36;&#x30;&#54;&#50;&#x40;&#113;&#113;&#x2e;&#99;&#111;&#x6d;</a></p>
+<p>若有相关疑问请联系我的个人邮箱：<a href="mailto:&#x32;&#x34;&#55;&#x39;&#x38;&#x37;&#54;&#x30;&#x36;&#x32;&#x40;&#x71;&#113;&#x2e;&#x63;&#111;&#109;">&#x32;&#x34;&#55;&#x39;&#x38;&#x37;&#54;&#x30;&#x36;&#x32;&#x40;&#x71;&#113;&#x2e;&#x63;&#111;&#109;</a></p>
 ]]></content>
       <categories>
         <category>更新</category>
