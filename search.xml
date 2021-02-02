@@ -12,6 +12,17 @@
       </categories>
   </entry>
   <entry>
+    <title>此博客的相关说明</title>
+    <url>/GHT66/abf0d511.html</url>
+    <content><![CDATA[<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p>此博客是我因学习而新搭建的个人博客，由于部署的远端是GitHub，所以有时候会出现访问速度较慢或者无法访问的情况，过段时间应该就可以访问了。若要访问该博客，在浏览器中搜索GHT66.github.io即可。后期会购买国内服务器速度就会快很多。域名的话暂时还没有哈哈哈，看能不能捡到一些便宜的域名。</p>
+<h2 id="关于内容"><a href="#关于内容" class="headerlink" title="关于内容"></a>关于内容</h2><p>内容的话还没有定下来，但不唯一，具体请期待后期更新。</p>
+<p>若有相关疑问请联系我的个人邮箱：<a href="mailto:&#x32;&#52;&#55;&#57;&#56;&#55;&#54;&#x30;&#x36;&#50;&#64;&#x71;&#x71;&#x2e;&#x63;&#111;&#x6d;">&#x32;&#52;&#55;&#57;&#56;&#55;&#54;&#x30;&#x36;&#50;&#64;&#x71;&#x71;&#x2e;&#x63;&#111;&#x6d;</a></p>
+]]></content>
+      <categories>
+        <category>更新</category>
+      </categories>
+  </entry>
+  <entry>
     <title>如何使用Snapseed进行色彩突出</title>
     <url>/GHT66/0.html</url>
     <content><![CDATA[<p>很多时候我们需要着重凸显图片中的某一个部分，而大部分手机自带的软件不能实现这样的功能，在电脑上使用PS编辑又太过于繁琐，所以我们可以使用 Google 开发的 Snapseed 来实现这样的效果。</p>
@@ -38,17 +49,6 @@
 ]]></content>
       <categories>
         <category>教程</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>此博客的相关说明</title>
-    <url>/GHT66/abf0d511.html</url>
-    <content><![CDATA[<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p>此博客是我因学习而新搭建的个人博客，由于部署的远端是GitHub，所以有时候会出现访问速度较慢或者无法访问的情况，过段时间应该就可以访问了。若要访问该博客，在浏览器中搜索GHT66.github.io即可。后期会购买国内服务器速度就会快很多。域名的话暂时还没有哈哈哈，看能不能捡到一些便宜的域名。</p>
-<h2 id="关于内容"><a href="#关于内容" class="headerlink" title="关于内容"></a>关于内容</h2><p>内容的话还没有定下来，但不唯一，具体请期待后期更新。</p>
-<p>若有相关疑问请联系我的个人邮箱：<a href="mailto:&#x32;&#52;&#x37;&#x39;&#56;&#55;&#x36;&#48;&#x36;&#50;&#x40;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;">&#x32;&#52;&#x37;&#x39;&#56;&#55;&#x36;&#48;&#x36;&#50;&#x40;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;</a></p>
-]]></content>
-      <categories>
-        <category>更新</category>
       </categories>
   </entry>
 </search>
